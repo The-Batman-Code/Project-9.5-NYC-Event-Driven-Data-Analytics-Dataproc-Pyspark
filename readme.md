@@ -46,9 +46,14 @@ This Data Analytics/Data Engineering project involves normalizing and denormaliz
 10. Now a jupyter notebook will open where you need to copy the code which I have provided in the code.ipynb file in this repo.
 ![](images/code.png)
 
+11. Now we need the link to our csv data to put it in the code so create a bucket in google cloud storage, make it public and put it's link in the 'Data-Loader' section in the jupyter notebook.
+12. Now replace the link to your csv file, edit the dataset names according to your project and start running the notebook cells one by one.
+13. After the notebook has successfully run, you can view your table in Bigquery👇
+![](images/tables.png)
 
-
-
+14. Now you can run a few analytical queries to answer questions coming to your mind
+![](images/sql1.png)
+![](images/sql2.png)
 
 
 
