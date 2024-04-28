@@ -13,3 +13,11 @@ This Data Analytics/Data Engineering project involves normalizing and denormaliz
 5. Google Cloud Bigquery
 6. Google Cloud Dataproc
 7. Looker Studio
+
+# How to deploy it yourself?
+1. The pyspark code creates the following data model👇
+![](images/Data-Model)
+
+2. Now lets get to Google Cloud Platform. Open you Google Cloud Console.
+3. Open Bigquery and create a dataset of your choice, for the sake of deployment, I will name it 'uber_data_dataproc' like the image below👇
+![](images/dataproc)
