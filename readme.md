@@ -31,6 +31,16 @@ This Data Analytics/Data Engineering project involves normalizing and denormaliz
 ![](images/set6.png)
 ![](images/set7.png)
 
+6. Click on create and after a few minutes your cluster should be running:) Click on the cluster name.
+![](images/cluster.png)
+
+7. Click on the web interfaces section in the headers.
+![](images/web.png)
+
+8. Now click on JupyterLab link under the Component Gateway section.
+![](images/wb.png)
+
+
 
 
 
