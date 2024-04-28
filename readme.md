@@ -1,4 +1,4 @@
-![image](https://github.com/The-Batman-Code/Project-9-NYC-Data-Analytics-Dataproc-Pyspark/assets/98730721/3d8201bf-1776-45ba-af28-33175b37a903)# Project-9-NYC-Data-Analytics-Dataproc-Pyspark
+# Project-9-NYC-Data-Analytics-Dataproc-Pyspark
 
 ![](images/data-flow.png)
 
