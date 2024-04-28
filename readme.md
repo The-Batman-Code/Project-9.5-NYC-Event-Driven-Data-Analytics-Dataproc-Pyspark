@@ -40,7 +40,11 @@ This Data Analytics/Data Engineering project involves normalizing and denormaliz
 8. Now click on JupyterLab link under the Component Gateway section.
 ![](images/wb.png)
 
-9. Now a jupyter notebook will open where you need to copy the code which I have provided in the code.ipynb file in this repo.
+9. You will be greeted with an introduction page like this where you have to select Pyspark kernel.
+![](images/kernel.png)
+
+10. Now a jupyter notebook will open where you need to copy the code which I have provided in the code.ipynb file in this repo.
+![](images/code.png)
 
 
 
