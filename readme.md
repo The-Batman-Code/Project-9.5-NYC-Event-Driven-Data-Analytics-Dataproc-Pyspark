@@ -1,4 +1,4 @@
-# Project-9-NYC-Data-Analytics-Dataproc-Pyspark
+![image](https://github.com/The-Batman-Code/Project-9-NYC-Data-Analytics-Dataproc-Pyspark/assets/98730721/3d8201bf-1776-45ba-af28-33175b37a903)# Project-9-NYC-Data-Analytics-Dataproc-Pyspark
 
 ![](images/data-flow.png)
 
@@ -21,3 +21,31 @@ This Data Analytics/Data Engineering project involves normalizing and denormaliz
 2. Now lets get to Google Cloud Platform. Open you Google Cloud Console.
 3. Open Bigquery and create a dataset of your choice, for the sake of deployment, I will name it 'uber_data_dataproc' like the image below👇
 ![](images/dataproc.png)
+4. Now we will head to Google Cloud Dataproc to create the spark cluster. Open Dataproc in your console.
+5. Click on create cluster and create cluster. Click create on Compute Engine and then set following settings👇
+![](images/set1.png)
+![](images/set2.png)
+![](images/set3.png)
+![](images/set4.png)
+![](images/set5.png)
+![](images/set6.png)
+![](images/set7.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
