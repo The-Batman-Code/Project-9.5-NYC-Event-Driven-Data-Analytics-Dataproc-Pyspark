@@ -55,7 +55,16 @@ This Data Analytics/Data Engineering project involves normalizing and denormaliz
 ![](images/sql1.png)
 ![](images/sql2.png)
 
+15. Now we can also utilize Bigquery to build a Dasboard, but to do so we need a table which has all the columns we need to make it. In order to do that we run the following SQL query - 
+![](images/big.png)
 
+16. We can make a dashboard like the one below -
+
+![](images/dashboard-1.png)
+
+![](images/dashboard-2.png)
+
+![](images/dashboard-3.png)
 
 
 
