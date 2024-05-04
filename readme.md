@@ -86,6 +86,10 @@ This Data Analytics/Data Engineering project involves normalizing and denormaliz
 ![](images/two.png)
 ![](images/three.png)
 
+4. Click on next.
+5. Now change the runtime to 'Python 3.10', change the Entry Point to 'dataproc_job'. In the main.py file paste the code that is written in the cloud-function.py file in the cloud function folder in this repo. Also paste the requirements from the requirements.txt file to the cloud function's requirements.txt file.
+![](images/cf.png)
+
 
 ### Thank You😎😎 Keep working - Keep Grinding🫠
 
