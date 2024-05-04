@@ -70,6 +70,10 @@ This Data Analytics/Data Engineering project involves normalizing and denormaliz
 1. We can make this pipeline event driven by adding cloud functions to trigger the dataproc cluster whenever data is uploaded to Cloud Storage.
 2. We can make this a schedule driven pipeline by adding our jupyter notebook as a job and then scheduling the pipeline run using Cloud Scheduler.
 
+# Update - 1
+### In this update we will convert our project into an event driven pipeline using Cloud Function and Scheduled Query
+![](images/new_dash.png)
+
 ### Thank You😎😎 Keep working - Keep Grinding🫠
 
 
