@@ -83,6 +83,9 @@ This Data Analytics/Data Engineering project involves normalizing and denormaliz
 
 3. Create a cloud function with the following configurations -
 ![](images/one.png)
+![](images/two.png)
+![](images/three.png)
+
 
 ### Thank You😎😎 Keep working - Keep Grinding🫠
 
