@@ -91,7 +91,7 @@ This Data Analytics/Data Engineering project involves normalizing and denormaliz
 ![](images/cf.png)
 
 6. Click on deploy to deploy the function :)
-7. Now upload the file 'uber_data.csv' in the input folder of the cloud storage bucket to trigger the cloud function. After a while you will have youe tables in the bigquery dataset.
+7. Now upload the file 'uber_data.csv' in the input folder of the cloud storage bucket to trigger the cloud function. After a while you will have your tables in the bigquery dataset.
 ![](images/dataset.png)
 
 8. Now to complete the pipeline we will schedule our SQL query which will create our master table for our Looker Studio Dashboard.
