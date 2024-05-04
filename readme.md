@@ -1,5 +1,8 @@
 # Project-9.5-NYC-Event-Driven-Data-Analytics-Dataproc-Pyspark
+## New
+![](images/new_dash.png)
 
+## Old
 ![](images/data-flow.png)
 
 # Introduction - 
