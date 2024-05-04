@@ -75,7 +75,7 @@ This Data Analytics/Data Engineering project involves normalizing and denormaliz
 ![](images/new_dash.png)
 
 # How to do this?
-1. Create 2 folders named python and input in our previously used cloud storage bucket.
+1. Create 2 folders named python and input in our previously used cloud storage bucket. Make the necessary changes in the main.py file like project name change, bigquery dataset name change, etc.
 ![](images/cs.png)
 
 2. In the python folder place the main.py file in the cloud function folder in this repo.
@@ -87,9 +87,12 @@ This Data Analytics/Data Engineering project involves normalizing and denormaliz
 ![](images/three.png)
 
 4. Click on next.
-5. Now change the runtime to 'Python 3.10', change the Entry Point to 'dataproc_job'. In the main.py file paste the code that is written in the cloud-function.py file in the cloud function folder in this repo. Also paste the requirements from the requirements.txt file to the cloud function's requirements.txt file.
+5. Now change the runtime to 'Python 3.10', change the Entry Point to 'dataproc_job'. In the main.py file paste the code that is written in the cloud-function.py file in the cloud function folder in this repo. Also paste the requirements from the requirements.txt to the cloud function's requirements.txt file.
 ![](images/cf.png)
 
+6. Click on deploy to deploy the function :)
+7. Now upload the file 'uber_data.csv' in the input folder of the cloud storage bucket to trigger the cloud function. After a while you will have youe tables in the bigquery dataset.
+![](images/dataset.png)
 
 ### Thank You😎😎 Keep working - Keep Grinding🫠
 
