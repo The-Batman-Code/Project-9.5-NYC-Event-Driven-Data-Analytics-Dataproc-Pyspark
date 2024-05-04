@@ -98,6 +98,10 @@ This Data Analytics/Data Engineering project involves normalizing and denormaliz
 9. Now to complete the pipeline we will schedule our SQL query which will create our master table for our Looker Studio Dashboard.
 ![](images/schedule.png)
 
+### Options -
+1. We can also convert our pyspark code to a Dataproc job and add it as a workflow template. The we can trigger that workflow template using Cloud Function
+2. We can make this a schedule driven pipeline by adding our jupyter notebook as a job and then scheduling the pipeline run using Cloud Scheduler.
+
 ### Thank You😎😎 Keep working - Keep Grinding🫠
 
 
