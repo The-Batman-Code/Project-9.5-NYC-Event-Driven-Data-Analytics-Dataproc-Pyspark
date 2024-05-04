@@ -15,7 +15,8 @@ This Data Analytics/Data Engineering project involves normalizing and denormaliz
 4. Google Cloud Storage
 5. Google Cloud Bigquery
 6. Google Cloud Dataproc
-7. Looker Studio
+7. Google cloud Functions
+8. Looker Studio
 
 # How to deploy it yourself?
 1. The pyspark code creates the following data model👇
