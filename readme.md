@@ -1,4 +1,4 @@
-# Project-9-NYC-Data-Analytics-Dataproc-Pyspark
+# Project-9-NYC-Event-Driven-Data-Analytics-Dataproc-Pyspark
 
 ![](images/data-flow.png)
 
