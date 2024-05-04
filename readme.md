@@ -74,6 +74,16 @@ This Data Analytics/Data Engineering project involves normalizing and denormaliz
 ### In this update we will convert our project into an event driven pipeline using Cloud Function and Scheduled Query
 ![](images/new_dash.png)
 
+# How to do this?
+1. Create 2 folders named python and input in our previously used cloud storage bucket.
+![](images/cs.png)
+
+2. In the python folder place the main.py file in the cloud function folder in this repo.
+![](images/cs2.png)
+
+3. Create a cloud function with the following configurations -
+![](images/one.png)
+
 ### Thank You😎😎 Keep working - Keep Grinding🫠
 
 
