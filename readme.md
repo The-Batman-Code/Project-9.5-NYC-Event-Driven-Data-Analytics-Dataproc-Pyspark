@@ -1,6 +1,6 @@
 # Project-9.5-NYC-Event-Driven-Data-Analytics-Dataproc-Pyspark
 ## New Service Flow
-![](images/new-dash2.png)
+![](images/new-dash3.png)
 
 ## Old Service Flow
 ![](images/data-flow.png)
